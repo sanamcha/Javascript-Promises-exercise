@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: green;
+  }
+
+  button {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    
+  }
+
+  button:hover {
+    cursor: pointer;
+   
+  }
+
+  #draw-card {
+    margin-top: 100px;
+  }
+
+  #draw-card > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
